@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+hugo
+hugo_extended_0.147.0_linux-amd64.tar.gz
+LICENSE
+README.md
