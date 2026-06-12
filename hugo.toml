@@ -14,7 +14,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = false
   disableSpecial1stPost = true
-  hideFooter = false
+  hideFooter = true
 
 [params.homeInfoParams]
   Title = "The Proposal Stack"
