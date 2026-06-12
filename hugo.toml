@@ -1,0 +1,35 @@
+baseURL = "https://theproposalstack.com/"
+languageCode = "en-us"
+title = "The Proposal Stack"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Proposal mechanics, translated for technical GovCon professionals"
+  author = "Jerome Bridges"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = true
+  hideFooter = false
+
+[params.homeInfoParams]
+  Title = "The Proposal Stack"
+  Content = "Proposal mechanics, translated for technical GovCon professionals."
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:editor@theproposalstack.com"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Subscribe"
+    url = "https://read.theproposalstack.com"
+    weight = 20
