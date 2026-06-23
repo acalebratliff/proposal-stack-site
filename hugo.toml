@@ -2,8 +2,11 @@ baseURL = "https://theproposalstack.com/"
 languageCode = "en-us"
 title = "The Proposal Stack"
 theme = "PaperMod"
+enableRobotsTXT = true
 [pagination]
   pagerSize = 10
+  
+[taxonomies]
 
 [params]
   description = "Proposal mechanics, translated for technical GovCon professionals"
@@ -11,7 +14,7 @@ theme = "PaperMod"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
-  ShowBreadCrumbs = false
+  ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   disableSpecial1stPost = true
   hideFooter = true
@@ -26,10 +29,14 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
+    name = "Guides"
+    url = "/guides/"
+    weight = 10
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 20
   [[menu.main]]
     name = "Subscribe"
     url = "https://read.theproposalstack.com"
-    weight = 20
+    weight = 30
