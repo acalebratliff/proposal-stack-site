@@ -50,7 +50,7 @@ Clarity is a scoring advantage, not a stylistic nicety. Evaluators may be subjec
 
 - **Use plain, active language.** "Our approach cuts processing time by 30 percent" beats "the implementation of our methodology will result in an enhancement of processing efficiency." Use technical terms where they add precision, then make the implication plain.
 - **Structure to match Section L.** If the instructions ask for the section in a given order, follow it. Reviewers should never have to hunt for where you answered a requirement.
-- **Use visuals that carry meaning.** A process flow, a phase diagram, or a comparison can do more persuasion work than a wall of text. Give graphics action captions that state the point of the visual rather than just labeling it. Remember that graphics usually count against your page limit, so each one has to earn its space.
+- **Use visuals that carry meaning.** A process flow, a phase diagram, or a comparison can do more persuasion work than a wall of text. Give graphics [action captions](/guides/proposal-graphics/) that state the point of the visual rather than just labeling it. Remember that graphics usually count against your page limit, so each one has to earn its space.
 - **Make the points findable.** Headings, white space, and a logical structure let an evaluator move fast and credit you quickly.
 
 ## What to avoid
@@ -60,7 +60,7 @@ Clarity is a scoring advantage, not a stylistic nicety. Evaluators may be subjec
 - **Fluffy, non-specific language.** "World-class," "best-in-breed," and "innovative" score nothing on their own. Specifics and proof do.
 - **Hiding behind jargon.** If a non-SME evaluator cannot follow it, you risk losing the points they control.
 - **Engaging your SMEs too late.** The technical content is only as good as the expertise behind it, and that input cannot be manufactured the night before.
-- **Letting the other sections drift.** Your staffing, management, and pricing have to visibly support the technical approach, or the whole proposal reads as disjointed.
+- **Letting the other sections drift.** Your [staffing and management](/guides/management-approach-and-staffing/) and your [cost estimate](/guides/basis-of-estimate/) have to visibly support the technical approach, or the whole proposal reads as disjointed.
 
 ## How this connects to everything else
 
