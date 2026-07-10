@@ -57,7 +57,7 @@ Worth knowing if you work in IT: the FAR now directs agencies to avoid LPTA, to 
 
 At the other end is **tradeoff**, often called best value (FAR 15.101-1). Here the government can pay more for a better proposal, weighing the strengths of your approach against its cost. Under tradeoff you write to win on merit. You give evaluators concrete, scoreable reasons to rate you above a cheaper competitor.
 
-Same proposal team, same technical solution, two completely different writing strategies. The only thing that tells you which strategy applies is Section M. Read it first, before you write a word of the technical volume.
+Same proposal team, same technical solution, two completely different writing strategies. The only thing that tells you which strategy applies is Section M. Read it first, before you write a word of the technical volume. For how those ratings actually get assigned, and the strengths and weaknesses that decide the award once you know which path you are on, see the deeper guide on [how proposals are scored](/guides/proposal-evaluation-criteria/).
 
 ## Why you read L and M together
 
